@@ -33,3 +33,11 @@ To launch the project, do the command : `$ npm start` , and scan the QRcode in t
 
 ### your favorites movies list :
 ![example](img/list_fav_movies.jpg)
+
+## Made with
+
+Visual Studio Code
+
+## Authors
+
+DEBROUCKER Tommy
